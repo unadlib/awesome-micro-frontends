@@ -1,6 +1,6 @@
 # awesome-micro-frontends
 
-Awesome lists about Micro-frontends.
+Awesome lists about micro frontends.
 
 ## Contents
 
