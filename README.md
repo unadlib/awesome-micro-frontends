@@ -9,6 +9,7 @@ Awesome lists about micro frontends.
   - [Posts](#Posts)
   - [Video](#Video)
   - [Slides](#Slides)
+  - [Books](#Books)
 - [Tutorials](#tutorials)
 - [Community](#community)  
 - [Follow on Twitter](#follow-on-twitter)  
@@ -60,6 +61,9 @@ Awesome lists about micro frontends.
 ### Slides
 
 - [「技术雷达」之 Micro Frontends：微前端 - 将微服务理念扩展到前端开发](https://blog.jimmylv.info/2017-12-22-tech-radar-microfrontends-extending-microservice-to-fed/)
+
+### Books
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Tutorials
 
