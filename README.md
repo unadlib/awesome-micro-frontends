@@ -11,8 +11,8 @@ Awesome lists about micro frontends.
   - [Slides](#Slides)
   - [Books](#Books)
 - [Tutorials](#tutorials)
-- [Community](#community)  
-- [Follow on Twitter](#follow-on-twitter)  
+- [Community](#community)
+- [Follow on Twitter](#follow-on-twitter)
 
 ## Tools
 
@@ -22,6 +22,16 @@ Awesome lists about micro frontends.
 - [nut](https://github.com/nut-project/nut)
 - [micro-frontend-pages](https://github.com/willmendesneto/micro-frontend-pages)
 - [oc](https://github.com/opencomponents/oc)
+- [piral](https://github.com/smapiot/piral)
+- [@ice/stark](https://github.com/ice-lab/icestark)
+- [@aacgn/atomic](https://github.com/aacgn/atomic)
+- [microfronts](https://github.com/eavichay/microfronts)
+- [@magic-microservices/magic](https://github.com/bytedance/magic-microservices)
+- [ilc](https://github.com/namecheap/ilc)
+- [misk-web](https://github.com/cashapp/misk-web)
+- [@puzzle-js/core](https://github.com/puzzle-js/puzzle-js)
+- [berial](https://github.com/berialjs/berial)
+- [luigi](https://github.com/SAP/luigi)
 
 ## General Resources
 
@@ -63,6 +73,7 @@ Awesome lists about micro frontends.
 - [「技术雷达」之 Micro Frontends：微前端 - 将微服务理念扩展到前端开发](https://blog.jimmylv.info/2017-12-22-tech-radar-microfrontends-extending-microservice-to-fed/)
 
 ### Books
+
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Tutorials
