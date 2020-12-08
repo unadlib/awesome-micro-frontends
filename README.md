@@ -32,6 +32,7 @@ Awesome lists about micro frontends.
 - [@puzzle-js/core](https://github.com/puzzle-js/puzzle-js)
 - [berial](https://github.com/berialjs/berial)
 - [luigi](https://github.com/SAP/luigi)
+- [frint](https://github.com/frintjs/frint)
 
 ## General Resources
 
@@ -62,6 +63,9 @@ Awesome lists about micro frontends.
 - [Microservice Grid and Micro Frontends](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
 - [Front-end microservices with Web Components](https://hackernoon.com/front-end-microservices-with-web-components-597759313393)
 - [A Software Architect's Approach Towards Using Angular (And SPAs In General) For Microservices Aka Microfrontends](https://www.softwarearchitekt.at/post/2017/12/28/a-software-architect-s-approach-towards-using-angular-and-spas-in-general-for-microservices-aka-microfrontends.aspx)
+- [The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
+- [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
+
 
 ### Video
 
